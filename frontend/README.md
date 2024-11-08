@@ -1,10 +1,24 @@
+# frontend
 
-## Install Node and Vue
-1. Install Node
-    ```
-    brew install node
-    ```
-2. Install Vue
-    ```
-    npm install -g @vue/cli
-    ```
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
