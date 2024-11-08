@@ -1,9 +1,5 @@
 <template>
   <div id="app">
-    <!-- Navigation component -->
-    <nav>
-      <router-link to="/">Home</router-link>
-    </nav>
     <!-- Router view component -->
     <router-view/>
   </div>

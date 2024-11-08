@@ -10,7 +10,7 @@ export default {
   data () {
     return {
       // Message to display
-      msg: 'Hello'
+      msg: 'Hello Test Page'
     }
   }
 }
